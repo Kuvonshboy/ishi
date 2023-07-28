@@ -1,0 +1,45 @@
+.container{
+    margin: 0 auto;
+    padding: 16px auto;
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 1140px;
+    background-color: yellowgreen;
+    
+}
+
+.cars{
+    height: 70px;
+
+}
+
+.cars h1{
+    text-align: center;
+    color: green;
+}
+
+.card{
+    height: 200px;  
+}
+
+
+input{
+    margin: 10px 450px;
+    background-color: chartreuse;
+    border-color: green;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+
+#btn{
+    padding: 8px 32px;
+    border-radius: 8px;
+    color: green;
+    background-color: chartreuse;
+    margin: 10px 500px;
+    font-family:  sans-serif;
+    font-size: medium;
+    border: none;
+}
